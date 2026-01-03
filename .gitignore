@@ -1,0 +1,11 @@
+# Ignore React dependencies
+node_modules/
+dist/
+build/
+
+# Ignore Go binary
+main
+*.exe
+
+# Ignore environment variables
+.env
